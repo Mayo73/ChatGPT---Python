@@ -1,4 +1,4 @@
-# ChatGPT---Python
+# ChatGPT-Python
 Using ChatGPT's API in python to create a ChatGPT clone.
 A simple way to get a workaround if ChatGPT is blocked in your Organization or Country.
 
