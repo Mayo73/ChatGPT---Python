@@ -7,4 +7,4 @@ First you need an API Key from OpenAI - Visit https://openai.com/ (You have to l
 Finally you need to follow these three simple steps:
   1. Creat a new Codespace in Github
   2. Go to Terminal within your Codespace and enter "pip install openai"
-  3. Paste the python Code from "main.py"
+  3. Paste the python Code from "main.py" into your Codespace
