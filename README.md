@@ -4,4 +4,4 @@ Using ChatGPT's API in python to create a ChatGPT clone. A simple way to get a w
 You need to follow these three simple steps:
   1. Creat a new Codespace in Github
   2. Go to Terminal within your Codespace and enter "pip install openai"
-  3. paste the python Code from "main.py"
+  3. Paste the python Code from "main.py"
